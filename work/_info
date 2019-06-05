@@ -1,0 +1,126 @@
+m255
+K3
+z0
+13
+cModel Technology
+dD:\lfsr
+vbit16_cla
+Z0 !s110 1559725393
+!i10b 1
+!s100 gg6c;ce?gz5G8QIZEEkld1
+IDKz[0aTnM:aPPP7e8H:`60
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult
+w1559724622
+8D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_cla.v
+FD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_cla.v
+L0 7
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1559725393.684000
+!s107 D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_cla.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_cla.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vbit16_mult
+R0
+!i10b 1
+!s100 83HV;A@BnznHe5f4@;;CI3
+IKD?z`WdMN=jiK6hE>LMo22
+R1
+R2
+w1559638587
+8D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_mult.v
+FD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_mult.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1559725393.750000
+!s107 D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_mult.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_mult.v|
+!i113 0
+R4
+vbit4_cla
+R0
+!i10b 1
+!s100 ]U;`Y>bAk3_B0HeiQZg?Y3
+ICN4_OnL0RfP6^5_B1Jmkc1
+R1
+R2
+w1495881328
+8D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4_cla.v
+FD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4_cla.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1559725393.557000
+!s107 D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4_cla.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4_cla.v|
+!i113 0
+R4
+vbit4cla_logic
+R0
+!i10b 1
+!s100 X2OVfa?X=agV0hCoiRzKI0
+IJ@_8aLdK0VJC^zzX=XlO50
+R1
+R2
+w1495873720
+8D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4cla_logic.v
+FD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4cla_logic.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1559725393.621000
+!s107 D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4cla_logic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4cla_logic.v|
+!i113 0
+R4
+vfull_adder
+R0
+!i10b 1
+!s100 Q9S>8N7`38n`<EDzgmS4g0
+I2:N@<nMTAi@_S1GS@7UbB1
+R1
+R2
+w1495872722
+8D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/full_adder.v
+FD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/full_adder.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1559725393.813000
+!s107 D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/full_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/full_adder.v|
+!i113 0
+R4
+vtest_mult
+R0
+!i10b 1
+!s100 aORfn:KD6if[zBX772WAR3
+IKZUAgl>EoeTl;ZP`n?:2g1
+R1
+R2
+w1495967270
+8D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_mult.v
+FD:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_mult.v
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1559725393.490000
+!s107 D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_mult.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_mult.v|
+!i113 0
+R4

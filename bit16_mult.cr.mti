@@ -1,0 +1,39 @@
+{D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4cla_logic.v} {1 {vlog -work work -vopt -stats=none {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4cla_logic.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module bit4cla_logic
+
+Top level modules:
+	bit4cla_logic
+
+} {} {}} {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_bit17_cla.v} {1 {vlog -work work -vopt -stats=none {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_bit17_cla.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_cla.v} {1 {vlog -work work -vopt -stats=none {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit16_cla.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module bit16_cla
+
+Top level modules:
+	bit16_cla
+
+} {} {}} {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_mult.v} {1 {vlog -work work -vopt -stats=none {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/test_mult.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module test_mult
+
+Top level modules:
+	test_mult
+
+} {} {}} {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/full_adder.v} {1 {vlog -work work -vopt -stats=none {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/full_adder.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4_cla.v} {1 {vlog -work work -vopt -stats=none {D:/stu_onedrive/OneDrive - stu.xidian.edu.cn/Exe2019-Students/Exercise_3/bit16_mult/bit4_cla.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module bit4_cla
+
+Top level modules:
+	bit4_cla
+
+} {} {}}
